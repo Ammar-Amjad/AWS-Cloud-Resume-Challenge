@@ -18,3 +18,11 @@ The challenge includes the following parts:
 14. CI/CD (Backend)  
 15. CI/CD (Frontend)  
 16. Blog Post  
+
+Setup:
+First we need to setup:
+- Create AWS account
+- MFA for secure access
+- Create a user account for root security
+- Use aws-vault for secure access
+- Coding ability from our computer
